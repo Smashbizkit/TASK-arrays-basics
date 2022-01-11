@@ -17,3 +17,4 @@
 12. Print length of `hobbies`
 13. Print every element in hobbies in a single line
 14. Empty the array `hobbies`
+
