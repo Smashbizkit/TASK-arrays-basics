@@ -14,18 +14,20 @@
 //14. Empty the array `hobbies`
 
 
-let emptyArray = [];
-let hobbies = ["reading","coding","gaming","football","diving","crypto"];
-let numbers = [0, 1, 2, 3, 4, 5];
-console.log (numbers[1]);
-console.log(hobbies[hobbies.length-1]);
-hobbies.push ("dancing");
-console.log(hobbies[hobbies.length-1]);
-console.log (hobbies.length);
-console.log (`I now have ${hobbies.length} hobbies`);
-hobbies.pop();
-hobbies.pop();
-console.log (hobbies.length);
-hobbies = [];
-console.log (hobbies);
+let emptyArray =[]
+let hobbies = ["coding", "reading","football", "crypto" ,"diving" , "gaming"]
+let numbers = [5 , 10 , 6 , 2 , 1]
+console.log (numbers[1])
+console.log (hobbies[hobbies.length-1])
+hobbies.push("dancing")
+console.log (hobbies[hobbies.length-1])
+console.log (hobbies.length)
+hobbies.pop()
+hobbies.pop()
+console.log (hobbies.length)
+console.log (hobbies)
+hobbies = []
+
+
+
 
